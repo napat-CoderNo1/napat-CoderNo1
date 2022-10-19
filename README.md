@@ -10,13 +10,9 @@ professionally in a Good Company.</p>
 
 - 💻 My major was Computer Engineering (GPA 3.54)
 
-- 🔭 I’m currently working on **AMSA Thailand Web development**
-
-- 🌱 I’m currently learning **React, tailwind**
-
-- 💬 Ask me about **Backend Development**
-
 - 📫 How to reach me **napat.moonpinij@gmail.com**
+
+- My RESUME
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
