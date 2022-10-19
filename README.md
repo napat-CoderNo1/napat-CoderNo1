@@ -12,7 +12,7 @@ professionally in a Good Company.</p>
 
 - 📫 How to reach me **napat.moonpinij@gmail.com**
 
-- My <a href="https://github.com/napat-CoderNo1/resume/blob/main/Napat-Resume.pdf">RESUME</a>
+- My <a href="https://github.com/napat-CoderNo1/resume/blob/main/Napat-Resume.pdf" target="_blank">RESUME</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
