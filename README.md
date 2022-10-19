@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Napat Moonpinij</h1>
-<h3 align="center">A passionate Web developer from Thailand</h3>
+<h3 align="center">A passionate web developer from Thailand</h3>
 
 <p>I'm looking for an internship in web and app development field.
 I'm an active student who love to lern new technology and I
