@@ -8,9 +8,7 @@ professionally in a Good Company.</p>
 
 - 🧑‍🎓 I'm a student at KMITL (https://www.kmitl.ac.th/) 
 
-- 💻 My major was Computer Engineering (GPA 3.54)
-
-- 📝 My <a href="https://github.com/napat-CoderNo1/resume/blob/main/Napat-Resume.pdf" target="_blank">RESUME</a>
+- 💻 My major was Computer Engineering (GPA 3.57)
 
 - 📫 How to reach me **napat.moonpinij@gmail.com**
 
