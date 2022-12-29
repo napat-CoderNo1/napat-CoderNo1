@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Napat Moonpinij</h1>
 <h3 align="center">A passionate web developer from Thailand</h3>
 
-<p>I'm looking for an internship in web and app development field.
-I'm an active student who love to lern new technology and I
-extremely motivated to constantly develop my skills and grow
-professionally in a Good Company.</p>
+<p>I'm a computer engineering student at KMITL. I'm an active person who always lerning new things about
+technology.</p>
 
 - 🧑‍🎓 I'm a student at KMITL (https://www.kmitl.ac.th/) 
 
