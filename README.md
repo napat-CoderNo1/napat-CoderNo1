@@ -6,7 +6,7 @@ technology.</p>
 
 - 🧑‍🎓 I'm a student at KMITL (https://www.kmitl.ac.th/) 
 
-- 💻 My major was Computer Engineering (GPA 3.5)
+- 💻 My major was Computer Engineering (GPA 3.53)
 
 - 📫 How to reach me **napat.moonpinij@gmail.com**
 
